@@ -3,7 +3,7 @@
 //
 #include "dominion.h"
 
-int play_adventurer(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus) {
+int play_adventurer(struct gameState *state) {
 
     int drawntreasure = 0;
     int currentPlayer = whoseTurn(state);
@@ -29,5 +29,31 @@ int play_adventurer(int card, int choice1, int choice2, int choice3, struct game
         state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
         z=z-1;
     }
+    return 0;
+}
+
+int play_council_room(struct gameState *state, int handPos) {
+    int currentPlayer = whoseTurn(state);
+    //+4 Cards
+    for (int i = 0; i < 4; i++)
+    {
+        drawCard(currentPlayer, state);
+    }
+
+    //+1 Buy
+    state->numBuys++;
+
+    //Each other player draws a card
+    for (int i = 0; i < state->numPlayers; i++)
+    {
+        if ( i != currentPlayer )
+        {
+            drawCard(i, state);
+        }
+    }
+
+    //put played card in played card pile
+    discardCard(handPos, currentPlayer, state, 0);
+
     return 0;
 }
