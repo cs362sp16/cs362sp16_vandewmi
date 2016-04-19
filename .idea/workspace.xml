@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91491b04-ef96-4170-9429-21b2ca674379" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cards.c" afterPath="$PROJECT_DIR$/cards.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dominion.c" afterPath="$PROJECT_DIR$/dominion.c" />
     </list>
     <ignored path="dominion.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,8 +75,8 @@
       <file leaf-file-name="cards.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cards.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="612">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -435,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cards.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="612">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding />
         </state>
       </provider>

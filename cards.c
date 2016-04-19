@@ -34,8 +34,9 @@ int play_adventurer(struct gameState *state) {
 
 int play_council_room(struct gameState *state, int handPos) {
     int currentPlayer = whoseTurn(state);
+    int i;
     //+4 Cards
-    for (int i = 0; i < 4; i++)
+    for (i = 0; i < 4; i++)
     {
         drawCard(currentPlayer, state);
     }
@@ -44,7 +45,7 @@ int play_council_room(struct gameState *state, int handPos) {
     state->numBuys++;
 
     //Each other player draws a card
-    for (int i = 0; i < state->numPlayers; i++)
+    for (i = 0; i < state->numPlayers; i++)
     {
         if ( i != currentPlayer )
         {
