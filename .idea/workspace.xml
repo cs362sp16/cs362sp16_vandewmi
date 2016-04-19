@@ -45,8 +45,8 @@
       <file leaf-file-name="dominion.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dominion.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="676" column="55" selection-start-line="676" selection-start-column="55" selection-end-line="676" selection-end-column="55" />
+            <state relative-caret-position="510">
+              <caret line="673" column="28" selection-start-line="673" selection-start-column="28" selection-end-line="673" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -55,12 +55,14 @@
       <file leaf-file-name="cards.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cards.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="145" column="10" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
+            <state relative-caret-position="238">
+              <caret line="160" column="0" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
               <folding>
                 <element signature="e#82#1168#0" expanded="false" />
                 <element signature="e#1170#1706#0" expanded="false" />
                 <element signature="e#1708#3444#0" expanded="false" />
+                <element signature="e#3446#4370#0" expanded="false" />
+                <element signature="e#4372#4408#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -389,20 +391,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dominion.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="676" column="55" selection-start-line="676" selection-start-column="55" selection-end-line="676" selection-end-column="55" />
+        <state relative-caret-position="510">
+          <caret line="673" column="28" selection-start-line="673" selection-start-column="28" selection-end-line="673" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cards.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="145" column="10" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
+        <state relative-caret-position="238">
+          <caret line="160" column="0" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
           <folding>
             <element signature="e#82#1168#0" expanded="false" />
             <element signature="e#1170#1706#0" expanded="false" />
             <element signature="e#1708#3444#0" expanded="false" />
+            <element signature="e#3446#4370#0" expanded="false" />
+            <element signature="e#4372#4408#0" expanded="false" />
           </folding>
         </state>
       </provider>

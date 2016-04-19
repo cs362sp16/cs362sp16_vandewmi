@@ -157,3 +157,7 @@ int play_mine(struct gameState *state, int choice1, int choice2, int handPos) {
     return 0;
 
 }
+
+int play_gardens() {
+    return 1;
+}
