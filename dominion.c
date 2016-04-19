@@ -649,11 +649,9 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   int i;
   int j;
   int k;
-  int x;
   int index;
   int currentPlayer = whoseTurn(state);
   int nextPlayer = currentPlayer + 1;
-  int temphand[MAX_HAND];
   int tributeRevealedCards[2] = {-1, -1};
   if (nextPlayer > (state->numPlayers - 1)){
     nextPlayer = 0;
@@ -670,7 +668,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return  play_council_room(state, handPos);
 
     case feast:
-      return play_feast();
+      return play_feast(state, choice1);
 
     case gardens:
       return -1;

@@ -2,6 +2,7 @@
 // Created by Miles on 4/19/2016.
 //
 #include "dominion.h"
+#include <stdio.h>
 
 int play_adventurer(struct gameState *state) {
 
@@ -74,7 +75,7 @@ int play_feast(struct gameState *state, int choice1) {
 
     //Update Coins for Buy
     updateCoins(currentPlayer, state, 5);
-    x = 1;//Condition to loop on
+    int x = 1;//Condition to loop on
     while( x == 1) {//Buy one card
         if (supplyCount(choice1, state) <= 0){
             if (DEBUG)
