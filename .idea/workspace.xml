@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="91491b04-ef96-4170-9429-21b2ca674379" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cards.c" afterPath="$PROJECT_DIR$/cards.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dominion.c" afterPath="$PROJECT_DIR$/dominion.c" />
     </list>
     <ignored path="dominion.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,42 +42,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dominion.c" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dominion.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dominion.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="669" column="46" selection-start-line="669" selection-start-column="46" selection-end-line="669" selection-end-column="46" />
+            <state relative-caret-position="578">
+              <caret line="676" column="4" selection-start-line="676" selection-start-column="4" selection-end-line="676" selection-end-column="4" />
               <folding>
                 <element signature="e#5671#6866#0" expanded="false" />
-                <marker date="1461102639901" expanded="false" signature="189:287" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="317:390" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="495:678" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="783:4051" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="4102:4819" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="4912:5669" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="6910:6960" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="7013:7102" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="7155:7193" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="7260:7651" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="7692:7722" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="7761:8785" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="8827:9180" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="9233:10908" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="10976:12006" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="12058:13736" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="28059:29148" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="29227:30051" placeholder="{...}" />
-                <marker date="1461102639901" expanded="false" signature="30117:30567" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="189:287" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="317:390" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="495:678" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="783:4051" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="4102:4819" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="4912:5669" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="6910:6960" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="7013:7102" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="7155:7193" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="7260:7651" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="7692:7722" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="7761:8785" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="8827:9180" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="9233:10908" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="10976:12006" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="12058:13736" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="26699:27788" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="27867:28691" placeholder="{...}" />
+                <marker date="1461103581037" expanded="false" signature="28757:29207" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cards.c" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cards.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cards.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            <state relative-caret-position="991">
+              <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -90,8 +91,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dominion.c" />
         <option value="$PROJECT_DIR$/cards.c" />
+        <option value="$PROJECT_DIR$/dominion.c" />
       </list>
     </option>
   </component>
@@ -403,40 +404,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dominion.c">
+    <entry file="file://$PROJECT_DIR$/cards.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="669" column="46" selection-start-line="669" selection-start-column="46" selection-end-line="669" selection-end-column="46" />
-          <folding>
-            <element signature="e#5671#6866#0" expanded="false" />
-            <marker date="1461102639901" expanded="false" signature="189:287" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="317:390" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="495:678" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="783:4051" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="4102:4819" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="4912:5669" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="6910:6960" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="7013:7102" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="7155:7193" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="7260:7651" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="7692:7722" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="7761:8785" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="8827:9180" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="9233:10908" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="10976:12006" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="12058:13736" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="28059:29148" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="29227:30051" placeholder="{...}" />
-            <marker date="1461102639901" expanded="false" signature="30117:30567" placeholder="{...}" />
-          </folding>
+        <state relative-caret-position="991">
+          <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cards.c">
+    <entry file="file://$PROJECT_DIR$/dominion.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="578">
+          <caret line="676" column="4" selection-start-line="676" selection-start-column="4" selection-end-line="676" selection-end-column="4" />
+          <folding>
+            <element signature="e#5671#6866#0" expanded="false" />
+            <marker date="1461103581037" expanded="false" signature="189:287" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="317:390" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="495:678" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="783:4051" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="4102:4819" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="4912:5669" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="6910:6960" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="7013:7102" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="7155:7193" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="7260:7651" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="7692:7722" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="7761:8785" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="8827:9180" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="9233:10908" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="10976:12006" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="12058:13736" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="26699:27788" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="27867:28691" placeholder="{...}" />
+            <marker date="1461103581037" expanded="false" signature="28757:29207" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
