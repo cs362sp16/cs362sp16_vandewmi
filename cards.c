@@ -74,7 +74,7 @@ int play_feast(struct gameState *state, int choice1) {
     //Backup hand
 
     //Update Coins for Buy
-    updateCoins(currentPlayer, state, 5);
+    updateCoins(currentPlayer, state, -5);
     int x = 1;//Condition to loop on
     while( x == 1) {//Buy one card
         if (supplyCount(choice1, state) <= 0){
