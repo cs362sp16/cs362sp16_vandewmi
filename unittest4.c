@@ -17,9 +17,10 @@ int main() {
     int result = whoseTurn(state);
     t_assert(result == 0, "incorrect starting player's turn");
 
-    int result = endTurn(state);
+    result = endTurn(state);
     t_assert(result != -1, "unable to end turn properly");
 
-    int result = whoseTurn(state);
+    result = whoseTurn(state);
     t_assert(result == 1, "incorrect next player's turn");
+    return 0;
 }

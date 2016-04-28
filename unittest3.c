@@ -15,10 +15,11 @@ int main() {
     initializeGame(n_players, kingdomCards, 5, state);
 
     int result = buyCard(great_hall,state);
-    t_assert(result == 1, "an error occurred");
+    t_assert(result == 0, "an error occurred");
     t_assert(state->discard[state->whoseTurn][0] == great_hall, "incorrect card added to discard pile");
     t_assert(state->numBuys == 0, "too many buys");
 
     result = buyCard(great_hall, state);
     t_assert(result == -1, "allowed to purchase without any remaining buys");
+    return 0;
 }

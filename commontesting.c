@@ -4,7 +4,6 @@
 #include "dominion.h"
 #include "commontesting.h"
 
-
 int t_assert(int testval, char* message) {
     if(testval)  {
         printf("TEST PASSED\n");
