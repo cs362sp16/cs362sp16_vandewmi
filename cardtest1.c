@@ -7,7 +7,7 @@
 //unit test for the great_hall card
 //intended behavior for the great hall card is to draw a new card and add an action
 int main() {
-    printf("UNIT TEST FOR great hall\n");
+    init_test("great hall");
     struct gameState *state = newGame();
 
     //good test, with valid kingdom cards and two players

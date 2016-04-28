@@ -1,7 +1,9 @@
-UNIT TEST FOR isGameOver()
+
+-----UNIT TEST isGameOver-----
 TEST PASSED
 TEST PASSED
-UNIT TEST FOR initalizeGame()
+
+-----UNIT TEST initalizeGame-----
 TEST PASSED
 TEST PASSED
 TEST PASSED
@@ -15,12 +17,55 @@ TEST PASSED
 TEST PASSED
 TEST FAILED: invalid kingdom card was allowed into the game
 TEST PASSED
-UNIT TEST FOR buyCard()
+
+-----UNIT TEST buyCard-----
 TEST PASSED
 TEST PASSED
 TEST PASSED
 TEST PASSED
-UNIT TEST FOR endTurn()
+
+-----UNIT TEST endTurn-----
 TEST PASSED
 TEST PASSED
 TEST PASSED
+
+-----UNIT TEST great hall-----
+TEST PASSED
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST outpost-----
+TEST FAILED: player didn't get a second turn
+TEST FAILED: player drew an incorrect number of cards for their second turn
+TEST PASSED
+TEST PASSED
+TEST FAILED: player just keeps getting more turns
+
+-----UNIT TEST minion-----
+TEST PASSED
+TEST FAILED: a player failed to discard their hand
+TEST PASSED
+TEST FAILED: a player failed to discard their hand
+TEST FAILED: a player failed to draw 4 cards
+TEST FAILED: minion wasn't supposed to add gold, but did
+TEST PASSED
+TEST FAILED: player didn't discard properly
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST smithy-----
+TEST PASSED
+TEST PASSED
+TEST FAILED: didn't discard the smithy
+TEST PASSED
+File 'dominion.c'
+Lines executed:37.68% of 499
+Creating 'dominion.c.gcov'
+
+File 'cards.c'
+Lines executed:0.00% of 63
+Creating 'cards.c.gcov'
+

@@ -7,7 +7,7 @@
 
 //unit test for isGameOver
 int main() {
-    printf("UNIT TEST FOR isGameOver()\n");
+    init_test("isGameOver");
     struct gameState s;
     struct gameState *state = &s;
     t_assert(state != 0, "state not initialized properly");

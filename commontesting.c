@@ -14,3 +14,7 @@ int t_assert(int testval, char* message) {
         return 0;
     }
 }
+
+void init_test(char* title) {
+	printf("\n-----UNIT TEST %s-----\n", title);
+}

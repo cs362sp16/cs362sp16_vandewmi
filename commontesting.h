@@ -7,6 +7,7 @@
 #ifndef DOMINION_COMMONTESTING_H
 #define DOMINION_COMMONTESTING_H
 int t_assert(int testval, char* message);
+void init_test(char* title);
 #endif //DOMINION_COMMONTESTING_H
 
 

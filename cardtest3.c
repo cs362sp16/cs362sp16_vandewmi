@@ -8,7 +8,7 @@
 //intended behavior for the minion card is to add an action and then
 // either gain 2 gold or discard, draw 4, and force each other player to discard and draw 4
 int main() {
-    printf("UNIT TEST FOR great hall\n");
+    init_test("minion");
     struct gameState *state = newGame();
 
     //good test, with valid kingdom cards and two players
@@ -41,8 +41,8 @@ int main() {
     playCard(0,1,0,0,state);
     t_assert(state->numActions == 1, "minion failed to add an action");
     t_assert(state->discardCount[player] == 1, "player didn't discard properly");
-    t_assert(state->coins == oldCoins +2);
-    int i = 0;
+    t_assert(state->coins == oldCoins +2, "player didn't get 2 more coins");
+    i = 0;
     for(i = 0; i < state->numPlayers; i++) {
         t_assert(i == player || state->discardCount[i] == 0, "a player discarded their hand when they shouldn't have");
         t_assert(i == player || state->handCount[i] == 5, "a player has an incorrect number of cards");

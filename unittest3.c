@@ -6,7 +6,7 @@
 
 //unit tests for buyCard
 int main() {
-    printf("UNIT TEST FOR buyCard()\n");
+    init_test("buyCard");
     struct gameState *state = newGame();
 
     //good test, with valid kingdom cards and two players

@@ -6,7 +6,7 @@
 
 //unit tests for endTurn
 int main() {
-    printf("UNIT TEST FOR endTurn()\n");
+    init_test("endTurn");
     struct gameState *state = newGame();
 
     //good test, with valid kingdom cards and two players
