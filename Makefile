@@ -60,4 +60,4 @@ unittestresults.out: ut1 ut2 ut3 ut4 ct1 ct2 ct3 ct4
 	gcov dominion.c >> unittestresults.out
 
 clean:
-	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcov *.gcda *.gcno *.so *.a *.dSYM
+	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcov *.gcda *.gcno *.so *.a *.dSYM ut1 ut2 ut3 ut4 ct1 ct2 ct3 ct4 unittestresults.out
