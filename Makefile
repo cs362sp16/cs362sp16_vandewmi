@@ -44,6 +44,15 @@ ct3: cardtest3.c dominion.o commontesting.o rngs.o interface.o
 ct4: cardtest4.c dominion.o commontesting.o rngs.o interface.o
 	gcc -o ct4 cardtest4.c -g commontesting.o dominion.o rngs.o interface.o $(CFLAGS)
 
+rt1: randomtestcard1.c dominion.o commontesting.o rngs.o interface.o
+	gcc -o rt1 randomtestcard1.c -g commontesting.o dominion.o rngs.o interface.o $(CFLAGS)
+
+rt2: randomtestcard2.c dominion.o commontesting.o rngs.o interface.o
+	gcc -o rt2 randomtestcard2.c -g commontesting.o dominion.o rngs.o interface.o $(CFLAGS)
+
+rta: randomtestadventurer.c dominion.o commontesting.o rngs.o interface.o
+	gcc -o rta randomtestadventurer.c -g commontesting.o dominion.o rngs.o interface.o $(CFLAGS)
+
 .PHONY: unittestresults.out
 unittestresults.out: ut1 ut2 ut3 ut4 ct1 ct2 ct3 ct4
 	rm unittestresults.out -f
@@ -59,5 +68,29 @@ unittestresults.out: ut1 ut2 ut3 ut4 ct1 ct2 ct3 ct4
 	ct4 >> unittestresults.out
 	gcov dominion.c >> unittestresults.out
 
+.PHONY: randomtestcard1.out
+randomtestcard1.out: rt1
+	rm randomtestcard1.out -f
+	rm dominion.c.gcov -f
+	gcov dominion.c
+	rt1 42 >> randomtestcard1.out
+	gcov dominion.c >> randomtestcard1.out
+
+.PHONY: randomtestcard2.out
+randomtestcard2.out: rt2
+	rm randomtestcard2.out -f
+	rm dominion.c.gcov -f
+	gcov dominion.c
+	timeout 5 rt2 42 >> randomtestcard2.out
+	gcov dominion.c >> randomtestcard2.out
+
+.PHONY: randomtestadventurer.out
+randomtestadventurer.out: rta
+	rm randomtestadventurer.out -f
+	rm dominion.c.gcov -f
+	gcov dominion.c
+	rta >> randomtestadventurer.out
+	gcov dominion.c >> randomtestadventurer.out
+
 clean:
-	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcov *.gcda *.gcno *.so *.a *.dSYM ut1 ut2 ut3 ut4 ct1 ct2 ct3 ct4 unittestresults.out
+	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcov *.gcda *.gcno *.so *.a *.dSYM ut1 ut2 ut3 ut4 ct1 ct2 ct3 ct4 unittestresults.out randomtestcard1.out randomtestcard2.out randomtestadventurer.out rt1 rt2 rta
