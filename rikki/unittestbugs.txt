@@ -1,0 +1,8 @@
+In my unit tests of the dominion.h functions I found surprisingly few errors. It may be that my tests aren't thorough enough, though I tested everything I could think of.
+One bug that I did find was that the initializeGame function allows invalid card types to be passed in. This should be rectified in my opinion.
+
+I did find a great many bugs in the implementations of individual cards, particularly the 'outpost' card and the 'minion' card. My unit test claims that there is one bug in the 'smithy' card but I suspect that to be primarily due to incompatible assumptions - I assumed that after the smithy card was played, it would be in the discard pile. That's not the case.
+
+In terms of specifics, the outpost bug seems to be that playing the outpost card doesn't accomplish any of it's intended functionality. The player doesn't get another turn. 
+The minion bug is also very large. Neither branch of the card (gaining coins or forcing discards) appears to work at all. The card adds coins when it should be forcing a discard, fails to add coins when it should, and fails to force a discard correctly either.
+

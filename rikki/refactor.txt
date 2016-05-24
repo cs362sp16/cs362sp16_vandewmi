@@ -1,0 +1,7 @@
+My refactor for this assignment was very simple. First, I created and included in dominion.c a new .c file named 'cards.' I created in this file five functions, named play_mine, play_adventurer, play_gardens, play_council_room and play_feast. Their functions signatures are documented below. I have also stripped each function of unnecessary parameters (for example, play_gardens requires no inputs, therefore has no parameters.) Each of my functions re-creates any local variables required for execution which may be extracted from the game state.
+
+int play_adventurer(struct gameState *state)
+int play_council_room(struct gameState *state, int handPos)
+int play_feast(struct gameState *state, int choice1)
+int play_mine(struct gameState *state, int choice1, int choice2, int handPos)
+int play_gardens()

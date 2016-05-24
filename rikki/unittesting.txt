@@ -1,0 +1,6 @@
+I had a lot of trouble getting the makefile to work correctly. The code and unit tests were very straightforward to write.
+
+I tested the smithy, minion, great hall, and outpost cards. The outpost was the most interesting card from an implementation standpoint, and is implemented completely incorrectly. The minion tried (in at least one branch it *did* add coins) but again was very, very wrong. The smithy was mostly correct, as was the great hall.
+
+My unit tests executed 38% of the dominion.c code, which was a surprisingly high number. I think that my tests for the cards that I chose are fairly comprehensive, but of course I only tested 4 of the many cards available.
+

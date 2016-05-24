@@ -1,0 +1,934 @@
+
+-----UNIT TEST random test - minion-----
+----1----TEST FAILED: minion failed to add an action
+TEST FAILED: player didn't get 2 more coins
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----2----TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: a player has an incorrect number of cards
+
+-----UNIT TEST random test - minion-----
+----1----TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST FAILED: a player discarded their hand when they shouldn't have
+TEST FAILED: a player has an incorrect number of cards
+TEST PASSED
+TEST PASSED
+File 'dominion.c'
+Lines executed:34.47% of 499
+Creating 'dominion.c.gcov'
+
+File 'cards.c'
+Lines executed:0.00% of 63
+Creating 'cards.c.gcov'
+
