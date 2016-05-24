@@ -1,0 +1,9 @@
+I wrote these random testers to initialize a random game, with a random number of players, then to simply have each player play one copy of the specified card for 100 turns. Each turn, I checked to ensure correct behavior. For each test, the total dominion code coverage was around 30%, which impressed me a lot. I thought they would cover much less. 
+
+I was unable to obtain complete code coverage of the minion card, because this card doesn't meet the specification in dominion.h at all. It expects a choice to be made in choice2, rather than choice1 having a value of '2.'
+
+Furthermore, my test of the 'feast' card failed to obtain complete code coverage because there is a disastrous error in that function resulting in an infinite loop when a test attempts to choose a card which costs more than the appropriate number of coins. I ended up having my random tester simply timeout after a reasonable amount of time. This test was I think useful because through random testing this catastrophic failure came to light. However, it also meant that I was unable to obtain coverage data for this function.
+
+My test of the adventurer function did manage to achieve 100% coverage after several runs, however it also found a fatal segfault that only occurs in some very interesting cases. This seems like the ideal use of a random tester, as it found a bug which I would likely have been unaware of otherwise. The random tests had far higher coverage, and I think in general the random tests had better fault detection capability for this project.
+
+The random tests may be better at finding faults, however, unit tests are much better at displaying exactly what those faults are (since they are much more controlled. When I attempted to break the code and re-run the random tests (really just the adventurer) my test correctly identified the failing cases.
