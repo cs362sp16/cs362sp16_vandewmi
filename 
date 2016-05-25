@@ -4,7 +4,7 @@ rngs.o: rngs.h rngs.c
 	gcc -c rngs.c -g  $(CFLAGS)
 
 dominion.o: dominion.h dominion.c rngs.o
-	gcc -std=c99 -c dominion.c dominion.h -g  $(CFLAGS)
+	gcc -c dominion.c dominion.h cards.c -g  $(CFLAGS)
 
 playdom: dominion.o playdom.c
 	gcc -o playdom playdom.c -g dominion.o rngs.o $(CFLAGS)
@@ -15,8 +15,12 @@ interface.o: interface.h interface.c
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)
 
-testdominion: dominion.o testdominion.c
-	gcc -o testdominion testdominion.c -g dominion.o rngs.o $(CFLAGS)
+testdominion: dominion.o rngs.o interface.o testdominion.c
+	gcc -o testdominion testdominion.c -g dominion.o rngs.o interface.o $(CFLAGS)
+
+testdominion.out: testdominion
+	testdominion 42 > testdominion.out
+	gcov dominion.c >> testdominion.out
 
 all: playdom player
 

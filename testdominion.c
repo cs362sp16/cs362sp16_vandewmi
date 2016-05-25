@@ -12,7 +12,7 @@ int contains(int *cards,int card) {
 	return 0;
 }
 
-void selectKingdomCards(int *cards) {
+void selectRandomKingdomCards(int *cards) {
 	srand(time(NULL));
 	int selected = 0;
 	while(selected < 10) {
@@ -129,7 +129,7 @@ int main (int argc, char** argv) {
 	PutSeed(atoi(argv[1]));
   	
 	int k[10] = {-1,-1,-1,-1,-1,-1,-1,-1,-1,-1};
-	selectKingdomCards(k);
+	selectRandomKingdomCards(k);
 
  	printf ("Starting game.\n");
 
