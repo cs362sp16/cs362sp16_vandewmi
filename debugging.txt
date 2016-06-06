@@ -1,0 +1,13 @@
+Debugging the Minion Card
+I started with a unit test of mine that revealed that the minion card often failed to give players additional money. I started by looking at the dominion.c code in an attempt to familiarize myself with the code, then returned to my unit test to print more information. Doing so revealed that no matter what happened, the player seemed to be stuck at zero coins. A quick search of the dominion.c code base revealed that state->coins was being set to zero in updateCoins, so I figured this might be getting called out of order somewhere. Sure enough, I learned that in the 'playCard' function the card effect is calculated, then the coins are updated. This means that setting state->coins in a card effect is useless. Instead, it seems that a pointer &coin_bonus is passed to the card Effect function. I changed the minion card to alter this pointer instead of state->coins. Now all tests (randomtestcard1.out) indicate the minion card is assigning gold correctly.
+
+In terms of Agan's principles:
+1. Understand the system - I started with a brief review of the relevant dominion.c source code. In the end, it was a lack of understanding of the system as a whole on the part of the programmer that resulted in an incorrect use of global variables to cause the bug.
+2. Make it fail - my unit tests did this exactly, which brought the bug to my attention.
+3. Stop thinking and look - this is what I did by searching the code base to find state->coins references.
+4. Divide and conquer - I didn't do much of this.
+5. Change on thing at a time - I only had to change one call.
+6. Keep an audit trail - this was a very small project, but a file just like this one would be a reasonable audit trail.
+7. Check the plug - Nothing here.
+9. If you didn't fix it, it ain't fixed - I fixed it.
+8. Get a fresh view - Wasn't necessary. Bug was very easy to fix.
