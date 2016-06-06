@@ -1,0 +1,20 @@
+Student: Rikki Gibson (gibsonri)
+Title: Non-Treasure Drawn by Adventurer
+Bug Description: The adventurer card, when played many times, eventually allows for the drawing of a non-treasure card.
+Steps to reproduce: Run the adventurer card many times.
+Priority: High
+Severity: Medium
+
+Student: Rikki Gibson (gibsonri)
+Title: Incorrect Minion Initialization
+Bug Description: The minion card fails to add an action the very first time that it is played.
+Steps to reproduce: Play the minion card, making the choice to receive an additional action instead of additional gold.
+Priority: High
+Severity: Medium
+
+Student: RikkiGibson (gibsonri)
+Title: Minion Card Doesn't Give Gold
+Bug Description: The minion card does not give the player additional gold when they make the choice to receive gold.
+Steps to reproduce: Play the minion card, making the choice to receive additional gold.
+Priority: High
+Severity: Low
