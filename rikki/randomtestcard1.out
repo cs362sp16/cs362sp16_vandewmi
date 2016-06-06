@@ -1,0 +1,151 @@
+
+-----UNIT TEST random test - minion-----
+TEST FAILED: minion failed to add an action
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+TEST PASSED
+TEST PASSED
+TEST FAILED: player didn't get 2 more coins
+TEST PASSED
+File 'dominion.c'
+Lines executed:14.70% of 558
+Creating 'dominion.c.gcov'
+

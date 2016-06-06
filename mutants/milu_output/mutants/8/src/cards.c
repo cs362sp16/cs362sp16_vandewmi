@@ -4,48 +4,37 @@
 #include "dominion.h"
 #include <stdio.h>
 
-int play_minion(struct gameState *state, int handPos, int choice1, int choice2, int *bonus) {
-      state->numActions++;
-	int currentPlayer = whoseTurn(state);
-	int i = 0;
-	int j = 0;
-      discardCard(handPos, currentPlayer, state, 0);
+ ;
+int play_minion ( struct gameState  * state , int handPos , int choice1 , int choice2 , int * bonus )
+{
+int currentPlayer = whoseTurn ( state ) ;
+int i = 0 ;
+int j = 0 ;
+discardCard ( handPos , currentPlayer , state , 0 ) ;
+if ( choice1 ) {
+}
+else if ( choice2 ) {
+while ( numHandCards ( state ) > 0 )
+{
+discardCard ( handPos , currentPlayer , state , 0 ) ;
+}
 
-      if (choice1)              //+2 coins
-        {
-          *bonus = state->coins + 2;
-        }
+for ( i = 0 ; i <= 4 ; i ++ )
+{
+drawCard ( currentPlayer , state ) ;
+}
 
-      else if (choice2)
-        {
-          while(numHandCards(state) > 0)
-            {
-              discardCard(handPos, currentPlayer, state, 0);
-            }
-          for (i = 0; i < 4; i++)
-            {
-              drawCard(currentPlayer, state);
-            }
-          for (i = 0; i < state->numPlayers; i++)
-            {
-              if (i != currentPlayer)
-                {
-                  if ( state->handCount[i] > 4 )
-                    {
-                      while( state->handCount[i] > 0 )
-                        {
-                          discardCard(handPos, i, state, 0);
-                        }
-                      for (j = 0; j < 4; j++)
-                        {
-                          drawCard(i, state);
-                        }
-                    }
-                }
-            }
+for ( i = 0 ; ; i ++ )
+{
+if ( i != currentPlayer ) {
+}
 
-        }
-      return 0;
+}
+
+}
+
+
+return 0 ;
 }
 
 int play_adventurer(struct gameState *state) {
@@ -205,3 +194,5 @@ int play_mine(struct gameState *state, int choice1, int choice2, int handPos) {
 int play_gardens() {
     return 1;
 }
+
+ ;
